@@ -1,4 +1,4 @@
-[![Playwright Tests](https://github.com/<TU_USUARIO>/<TU_REPOSITORIO>/actions/workflows/playwright.yml/badge.svg)](https://github.com/<TU_USUARIO>/<TU_REPOSITORIO>/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/RubenLancho/playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/RubenLancho/playwright/actions/workflows/playwright.yml)
 
 # Playwright Testing Project
 
