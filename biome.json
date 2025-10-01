@@ -1,0 +1,9 @@
+{
+  "extends": [],
+  "rules": {
+    "recommended": true
+  },
+  "formatter": {
+    "enabled": true
+  }
+}

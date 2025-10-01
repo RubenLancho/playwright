@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Playwright test reports and traces
+playwright-report/
+test-results/
+results/
+*.log
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript build output
+dist/
+build/
+*.tsbuildinfo
+
+# Yarn and npm logs
+yarn-error.log
+npm-debug.log
+
+# IDE files
+.idea/
+*.swp
